@@ -4,7 +4,7 @@ Access multiple videos (Objects) using Single URL
 
 ## Steps for access those videos in Single URL in AWS S3 ##
 
-**Step 1:** Log in to the AWS Management Console.
+**Step 1:** `Log in to the AWS Management Console.
 
 **Step 2:** Go to the S3 service. 
 
@@ -25,5 +25,7 @@ Access multiple videos (Objects) using Single URL
 * Enable static website
 * Add the file name you uploaded to the S3 (index.html)
 * Save it
-  
+
+**Step 8:** Copy the endpoint point of a static website.
+
 **Step 8:** Access those videos using single URL.
